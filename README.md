@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-M7
+PostresSQL
 ## Overview of the analysis: The purpose of this analysis is to give managers information on Pewlett Hackard employeess that are at the age to retire and preparing for new hires that will be replacing them.In addition, the company is offering retirement packages for retiring employees, requiring a list of people eligible to recieve it.
 
 ## Results:
